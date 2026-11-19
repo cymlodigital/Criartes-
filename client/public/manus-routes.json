@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "path": "/", "title": "Quiz de Vendas Criartes" },
+    { "path": "/404", "title": "Página não encontrada" }
+  ]
+}
