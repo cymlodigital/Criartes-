@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="180" viewBox="0 0 640 180" role="img" aria-labelledby="title desc">
+  <title id="title">Criartes Gráfica e Editora</title>
+  <desc id="desc">Marca tipográfica Criartes em azul-marinho e dourado</desc>
+  <rect width="640" height="180" rx="12" fill="#071b52"/>
+  <path d="M72 48h42l-20 42 20 42H72l-20-42z" fill="#d9a441"/>
+  <path d="M97 48h31l-20 42 20 42H97l-20-42z" fill="#f0d49b" opacity=".8"/>
+  <text x="166" y="96" fill="#fffdf8" font-family="Arial, sans-serif" font-size="55" font-weight="700" letter-spacing="7">CRIARTES</text>
+  <text x="170" y="129" fill="#f0d49b" font-family="Arial, sans-serif" font-size="14" letter-spacing="5">GRÁFICA E EDITORA</text>
+  <path d="M167 145h310" stroke="#d9a441" stroke-width="2"/>
+</svg>
