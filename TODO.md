@@ -21,3 +21,7 @@
 - [x] Validar o build de produção com `pnpm build`.
 - [x] Servir a rota principal na porta 3000 para o Preview.
 - [x] Disponibilizar e validar `client/public/manus-routes.json` em `/manus-routes.json`.
+
+## GitHub Pages
+- [x] Configurar o Vite para gerar URLs sob a base `/Criartes-/`.
+- [x] Adicionar workflow GitHub Actions para instalar dependências, executar `build:static` e publicar `dist/public` no GitHub Pages.
